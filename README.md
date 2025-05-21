@@ -5,7 +5,7 @@ This repository contains the source codes to estimate mean profiles and fluxes i
 The source code can be used in the following ways:
 
 
-  - Render the jupyter-notebook in [github](https://github.com/pcboldini/DragAndHeatTransferEstimation_NICFD/DragAndHeatEstimate.ipynb).
+  - Render the jupyter-notebook in [github](https://github.com/pcboldini/DragAndHeatTransferEstimation_NICFD/blob/main/DragAndHeatEstimate.ipynb).
 
 
   - Use the jup2py routine to convert it into a plain Python source, or download the entire github repository.
