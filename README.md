@@ -12,12 +12,14 @@ It extends the ideal-gas-based method originally introduced in:
 
 This is the bibtex entry in case you use the code:
 
-@article{...,
+```bibtex
+@article{boldini2025transition,
   title={Direct numerical simulation of complete transition to turbulence with a fluid at supercritical pressure},
   author={P.C. Boldini, B. Bugeat, J.W.R. Peeters, M. Kloker, R. Pecnik},
   journal={arXiv preprint arXiv:2506.06703},
   year={2025}
 }
+```
 
 ---
 
